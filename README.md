@@ -1,4 +1,4 @@
-# FinancialFraudDetection
+
 # FinancialFraudDetection
 # 🔍 Financial Fraud Detection Using Credit Card Transactions  
 Machine Learning project for detecting fraudulent credit card transactions using classical ML models, LightGBM, SMOTE, and real-time FastAPI deployment.
